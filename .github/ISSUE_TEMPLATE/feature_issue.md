@@ -1,6 +1,6 @@
 ---
-name: Issue Template
-about: Issue Template
+name: FEATURE
+about: Issue Template with feature labels
 title: "[FEATURE] "
 labels: feature
 assignees: doheuncho
